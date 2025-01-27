@@ -8,5 +8,5 @@ O projeto consiste em uma aplicação que exibe cartas de Yu-Gi-Oh! de forma din
 - Estruturação de código limpo e reutilizável;
 - Aplicação de HTML e CSS para estilização responsiva;
 - Integração de imagens e conteúdo dinâmico na aplicação.
-- 
+
 Esse projeto foi uma ótima introdução para conceitos fundamentais de programação e me motivou a continuar estudando e praticando desenvolvimento web.
